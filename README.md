@@ -1,4 +1,4 @@
-# dice-game
+# Dice-game
 This repository contains a simple dice game implemented with HTML, CSS, and JavaScript. In this two-player game, each player rolls a virtual six-sided die, and the player with the higher roll wins. The game provides a fun and interactive way to decide outcomes randomly or make simple decisions.
 
 ## How to Play
